@@ -1,2 +1,2 @@
 # eeg-handbook
-EEG preprocessing, ERP analysis and corrections, time frequency analysis, MVPA decoding
+My codebooks for EEG preprocessing, ERP analysis and corrections, time frequency analysis, MVPA decoding
